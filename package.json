@@ -1,0 +1,12 @@
+{
+  "name": "cmsify-utils",
+  "version": "0.0.1",
+  "description": "Utility functionality to use in cmsify packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Donnelly",
+  "license": "MIT",
+  "type": "module"
+}
